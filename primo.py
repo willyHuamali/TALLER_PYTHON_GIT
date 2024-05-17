@@ -12,3 +12,5 @@ def es_primo(num):
 num=int(input("ingrese numero: "))
 print(es_primo(num))
 
+print ("nuevo ingreso pruena:")
+print ("segundo ingreso pruena:")
