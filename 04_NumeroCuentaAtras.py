@@ -14,8 +14,6 @@ while i <= numero:
 #########################
 
 n1 = int(input("Ingresa un número hasta el que deseas contar: "))
-
-
 if n1 < 0:
         print("Por favor, introduce un número entero positivo.")
 else:
