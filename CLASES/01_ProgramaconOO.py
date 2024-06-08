@@ -1,0 +1,24 @@
+#teoria
+#POO: PROGRAMACION ORIENTADA A OBJETOS 
+#OPP
+#PERSONA:  CLASE
+    #NOMBRE   ATRIBUTOS
+    #APELLIDO
+    #EDAD
+    #DIRECCION
+    #TELEFONO
+    #EMAIL
+
+# Persona1=persona(willy,huamali,20,jr lima, 23253535,willy@gmail) --clase
+
+#PRODUCTO: CLASE
+    #ATRIBUTOS
+    #NOMBRE
+    #PRECIO
+    #CANTIDAD
+    #DESCRIPCION
+
+#CLASES
+#OBJEETOS
+#HERENCIA
+#POLIMORFISMO
